@@ -1,8 +1,8 @@
-package flowerstore.FlowerStoreContinue.delivery;
+package flowerstore.flowerstorecontinue.delivery;
 
 import java.util.List;
 
-import flowerstore.FlowerStoreContinue.flower.Item;
+import flowerstore.flowerstorecontinue.flower.Item;
 
 public class PostDeliveryStrategy implements Delivery {
     @Override

@@ -1,4 +1,4 @@
-package flowerstore.FlowerStoreContinue.flower;
+package flowerstore.flowerstorecontinue.flower;
 
 public class PaperDecorator extends ItemDecorator {
 

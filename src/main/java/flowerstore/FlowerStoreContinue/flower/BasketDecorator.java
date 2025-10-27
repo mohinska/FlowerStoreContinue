@@ -1,4 +1,4 @@
-package flowerstore.FlowerStoreContinue.flower;
+package flowerstore.flowerstorecontinue.flower;
 
 public class BasketDecorator extends ItemDecorator {
     private static final double BASKET_PRICE = 4;

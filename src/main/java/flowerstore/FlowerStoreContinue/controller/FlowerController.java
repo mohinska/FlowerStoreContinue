@@ -1,12 +1,12 @@
-package flowerstore.FlowerStoreContinue.controller;
+package flowerstore.flowerstorecontinue.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import flowerstore.FlowerStoreContinue.flower.Flower;
-import flowerstore.FlowerStoreContinue.flower.FlowerColor;
-import flowerstore.FlowerStoreContinue.flower.FlowerType;
+import flowerstore.flowerstorecontinue.flower.Flower;
+import flowerstore.flowerstorecontinue.flower.FlowerColor;
+import flowerstore.flowerstorecontinue.flower.FlowerType;
 
 import java.util.List;
 

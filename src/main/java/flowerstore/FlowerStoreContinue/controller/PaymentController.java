@@ -1,13 +1,13 @@
-package flowerstore.FlowerStoreContinue.controller;
-
-import flowerstore.FlowerStoreContinue.payment.CreditCardPaymentStrategy;
-import flowerstore.FlowerStoreContinue.payment.PayPalPaymentStrategy;
-import flowerstore.FlowerStoreContinue.payment.Payment;
+package flowerstore.flowerstorecontinue.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
+
+import flowerstore.flowerstorecontinue.payment.CreditCardPaymentStrategy;
+import flowerstore.flowerstorecontinue.payment.PayPalPaymentStrategy;
+import flowerstore.flowerstorecontinue.payment.Payment;
 
 @RestController
 @RequestMapping("/api/payment")

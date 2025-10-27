@@ -1,4 +1,4 @@
-package flowerstore.FlowerStoreContinue;
+package flowerstore.flowerstorecontinue;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

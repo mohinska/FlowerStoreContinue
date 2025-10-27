@@ -1,4 +1,4 @@
-package flowerstore.FlowerStoreContinue.payment;
+package flowerstore.flowerstorecontinue.payment;
 
 public class CreditCardPaymentStrategy implements Payment {
     @Override

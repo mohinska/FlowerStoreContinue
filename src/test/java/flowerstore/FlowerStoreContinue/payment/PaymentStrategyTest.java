@@ -1,6 +1,7 @@
-package flowerstore.FlowerStoreContinue.payment;
+package flowerstore.flowerstorecontinue.payment;
 
 import org.junit.jupiter.api.Test;
+
 import org.junit.jupiter.api.Assertions;
 
 public class PaymentStrategyTest {

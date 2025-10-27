@@ -1,4 +1,4 @@
-package flowerstore.FlowerStoreContinue.flower;
+package flowerstore.flowerstorecontinue.flower;
 
 public interface Item {
     double getPrice();

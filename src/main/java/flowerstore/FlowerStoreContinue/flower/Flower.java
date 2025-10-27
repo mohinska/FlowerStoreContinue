@@ -1,4 +1,4 @@
-package flowerstore.FlowerStoreContinue.flower;
+package flowerstore.flowerstorecontinue.flower;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

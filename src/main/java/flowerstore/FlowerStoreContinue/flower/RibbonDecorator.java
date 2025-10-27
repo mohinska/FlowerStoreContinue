@@ -1,4 +1,4 @@
-package flowerstore.FlowerStoreContinue.flower;
+package flowerstore.flowerstorecontinue.flower;
 
 public class RibbonDecorator extends ItemDecorator {
     private static final double RIBBON_PRICE = 40;

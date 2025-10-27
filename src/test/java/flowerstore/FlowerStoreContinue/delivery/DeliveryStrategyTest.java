@@ -1,8 +1,10 @@
-package flowerstore.FlowerStoreContinue.delivery;
+package flowerstore.flowerstorecontinue.delivery;
 
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.Assertions;
-import flowerstore.FlowerStoreContinue.flower.Item;
+
+import flowerstore.flowerstorecontinue.flower.Item;
+
 import java.util.ArrayList;
 import java.util.List;
 

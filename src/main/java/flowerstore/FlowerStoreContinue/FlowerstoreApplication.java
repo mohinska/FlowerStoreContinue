@@ -1,4 +1,4 @@
-package flowerstore.FlowerStoreContinue;
+package flowerstore.flowerstorecontinue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

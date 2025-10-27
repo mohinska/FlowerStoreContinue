@@ -1,14 +1,14 @@
-package flowerstore.FlowerStoreContinue.order;
-
-import flowerstore.FlowerStoreContinue.delivery.Delivery;
-import flowerstore.FlowerStoreContinue.flower.Item;
-import flowerstore.FlowerStoreContinue.payment.Payment;
+package flowerstore.flowerstorecontinue.order;
 
 import lombok.Getter;
 import lombok.Setter;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import flowerstore.flowerstorecontinue.delivery.Delivery;
+import flowerstore.flowerstorecontinue.flower.Item;
+import flowerstore.flowerstorecontinue.payment.Payment;
 
 public class Order {
 
